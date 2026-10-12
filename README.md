@@ -4,6 +4,7 @@
 <p align="center"><img src="./atelier/header.svg" width="100%" alt="Eduardo Rodriguez"/></p>
 
 <p align="center">
+  <a href="https://x.com/EdRdz&#95;dev"><img src="./atelier/social-x.svg" height="36" alt="@EdRdz&#95;dev"/></a>&nbsp;
   <a href="https://github.com/edrdz-dev"><img src="./atelier/social-github.svg" height="36" alt="edrdz-dev"/></a>
 </p>
 
@@ -17,6 +18,8 @@
 <p align="center">
   <a href="https://github.com/edrdz-dev/gieok"><img src="./atelier/repo-1.svg" width="49%" alt="gieok"/></a>
 </p>
+
+<p align="center"><img src="./atelier/stack.svg" width="100%" alt="Tech stack"/></p>
 
 <p align="center"><img src="./atelier/footer.svg" width="100%" alt="Footer"/></p>
 
