@@ -13,7 +13,7 @@
   <img src="./atelier/languages.4c38430d.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.ec2cdba9.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.4b493d34.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/edrdz-dev/gieok"><img src="./atelier/repo-1.7aced2f5.svg" width="49%" alt="gieok"/></a>
@@ -21,6 +21,6 @@
 
 <p align="center"><img src="./atelier/stack.9b6f45a4.svg" width="100%" alt="Tech stack"/></p>
 
-<p align="center"><img src="./atelier/footer.8d9dd428.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.03893148.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
